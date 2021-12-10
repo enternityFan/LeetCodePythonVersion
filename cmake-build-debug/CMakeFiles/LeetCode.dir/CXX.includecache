@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lifan/Code/LeetCode/122. 买卖股票的最佳时机 II.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
