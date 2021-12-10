@@ -93,6 +93,9 @@
 		<Unit filename="/home/lifan/Code/LeetCode/122. 买卖股票的最佳时机 II.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/309. 最佳买卖股票时机含冷冻期.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/home/lifan/Code/LeetCode/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
