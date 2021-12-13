@@ -87,13 +87,43 @@
 		<Unit filename="/home/lifan/Code/LeetCode/1014最佳观光组合.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/118. 杨辉三角.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/119. 杨辉三角 II.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/home/lifan/Code/LeetCode/121. 买卖股票的最佳时机.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/home/lifan/Code/LeetCode/122. 买卖股票的最佳时机 II.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/139. 单词拆分.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/22. 括号生成.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/264. 丑数 II.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/278. 第一个错误的版本.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/home/lifan/Code/LeetCode/309. 最佳买卖股票时机含冷冻期.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/35. 搜索插入位置.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/413. 等差数列划分.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/704. 二分查找.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/lifan/Code/LeetCode/714. 买卖股票的最佳时机含手续费.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/home/lifan/Code/LeetCode/main.cpp">

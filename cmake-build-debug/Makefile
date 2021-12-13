@@ -153,6 +153,54 @@ LeetCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/1014最佳观光组合.cpp.s
 .PHONY : 1014最佳观光组合.cpp.s
 
+118._杨辉三角.o: 118._杨辉三角.cpp.o
+.PHONY : 118._杨辉三角.o
+
+# target to build an object file
+118._杨辉三角.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o
+.PHONY : 118._杨辉三角.cpp.o
+
+118._杨辉三角.i: 118._杨辉三角.cpp.i
+.PHONY : 118._杨辉三角.i
+
+# target to preprocess a source file
+118._杨辉三角.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.i
+.PHONY : 118._杨辉三角.cpp.i
+
+118._杨辉三角.s: 118._杨辉三角.cpp.s
+.PHONY : 118._杨辉三角.s
+
+# target to generate assembly for a file
+118._杨辉三角.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.s
+.PHONY : 118._杨辉三角.cpp.s
+
+119._杨辉三角_II.o: 119._杨辉三角_II.cpp.o
+.PHONY : 119._杨辉三角_II.o
+
+# target to build an object file
+119._杨辉三角_II.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o
+.PHONY : 119._杨辉三角_II.cpp.o
+
+119._杨辉三角_II.i: 119._杨辉三角_II.cpp.i
+.PHONY : 119._杨辉三角_II.i
+
+# target to preprocess a source file
+119._杨辉三角_II.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.i
+.PHONY : 119._杨辉三角_II.cpp.i
+
+119._杨辉三角_II.s: 119._杨辉三角_II.cpp.s
+.PHONY : 119._杨辉三角_II.s
+
+# target to generate assembly for a file
+119._杨辉三角_II.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.s
+.PHONY : 119._杨辉三角_II.cpp.s
+
 121._买卖股票的最佳时机.o: 121._买卖股票的最佳时机.cpp.o
 .PHONY : 121._买卖股票的最佳时机.o
 
@@ -201,6 +249,102 @@ LeetCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/122._买卖股票的最佳时机_II.cpp.s
 .PHONY : 122._买卖股票的最佳时机_II.cpp.s
 
+139._单词拆分.o: 139._单词拆分.cpp.o
+.PHONY : 139._单词拆分.o
+
+# target to build an object file
+139._单词拆分.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o
+.PHONY : 139._单词拆分.cpp.o
+
+139._单词拆分.i: 139._单词拆分.cpp.i
+.PHONY : 139._单词拆分.i
+
+# target to preprocess a source file
+139._单词拆分.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/139._单词拆分.cpp.i
+.PHONY : 139._单词拆分.cpp.i
+
+139._单词拆分.s: 139._单词拆分.cpp.s
+.PHONY : 139._单词拆分.s
+
+# target to generate assembly for a file
+139._单词拆分.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/139._单词拆分.cpp.s
+.PHONY : 139._单词拆分.cpp.s
+
+22._括号生成.o: 22._括号生成.cpp.o
+.PHONY : 22._括号生成.o
+
+# target to build an object file
+22._括号生成.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/22._括号生成.cpp.o
+.PHONY : 22._括号生成.cpp.o
+
+22._括号生成.i: 22._括号生成.cpp.i
+.PHONY : 22._括号生成.i
+
+# target to preprocess a source file
+22._括号生成.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/22._括号生成.cpp.i
+.PHONY : 22._括号生成.cpp.i
+
+22._括号生成.s: 22._括号生成.cpp.s
+.PHONY : 22._括号生成.s
+
+# target to generate assembly for a file
+22._括号生成.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/22._括号生成.cpp.s
+.PHONY : 22._括号生成.cpp.s
+
+264._丑数_II.o: 264._丑数_II.cpp.o
+.PHONY : 264._丑数_II.o
+
+# target to build an object file
+264._丑数_II.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o
+.PHONY : 264._丑数_II.cpp.o
+
+264._丑数_II.i: 264._丑数_II.cpp.i
+.PHONY : 264._丑数_II.i
+
+# target to preprocess a source file
+264._丑数_II.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/264._丑数_II.cpp.i
+.PHONY : 264._丑数_II.cpp.i
+
+264._丑数_II.s: 264._丑数_II.cpp.s
+.PHONY : 264._丑数_II.s
+
+# target to generate assembly for a file
+264._丑数_II.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/264._丑数_II.cpp.s
+.PHONY : 264._丑数_II.cpp.s
+
+278._第一个错误的版本.o: 278._第一个错误的版本.cpp.o
+.PHONY : 278._第一个错误的版本.o
+
+# target to build an object file
+278._第一个错误的版本.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o
+.PHONY : 278._第一个错误的版本.cpp.o
+
+278._第一个错误的版本.i: 278._第一个错误的版本.cpp.i
+.PHONY : 278._第一个错误的版本.i
+
+# target to preprocess a source file
+278._第一个错误的版本.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.i
+.PHONY : 278._第一个错误的版本.cpp.i
+
+278._第一个错误的版本.s: 278._第一个错误的版本.cpp.s
+.PHONY : 278._第一个错误的版本.s
+
+# target to generate assembly for a file
+278._第一个错误的版本.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.s
+.PHONY : 278._第一个错误的版本.cpp.s
+
 309._最佳买卖股票时机含冷冻期.o: 309._最佳买卖股票时机含冷冻期.cpp.o
 .PHONY : 309._最佳买卖股票时机含冷冻期.o
 
@@ -224,6 +368,102 @@ LeetCode/fast:
 309._最佳买卖股票时机含冷冻期.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.s
 .PHONY : 309._最佳买卖股票时机含冷冻期.cpp.s
+
+35._搜索插入位置.o: 35._搜索插入位置.cpp.o
+.PHONY : 35._搜索插入位置.o
+
+# target to build an object file
+35._搜索插入位置.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o
+.PHONY : 35._搜索插入位置.cpp.o
+
+35._搜索插入位置.i: 35._搜索插入位置.cpp.i
+.PHONY : 35._搜索插入位置.i
+
+# target to preprocess a source file
+35._搜索插入位置.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.i
+.PHONY : 35._搜索插入位置.cpp.i
+
+35._搜索插入位置.s: 35._搜索插入位置.cpp.s
+.PHONY : 35._搜索插入位置.s
+
+# target to generate assembly for a file
+35._搜索插入位置.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.s
+.PHONY : 35._搜索插入位置.cpp.s
+
+413._等差数列划分.o: 413._等差数列划分.cpp.o
+.PHONY : 413._等差数列划分.o
+
+# target to build an object file
+413._等差数列划分.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o
+.PHONY : 413._等差数列划分.cpp.o
+
+413._等差数列划分.i: 413._等差数列划分.cpp.i
+.PHONY : 413._等差数列划分.i
+
+# target to preprocess a source file
+413._等差数列划分.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.i
+.PHONY : 413._等差数列划分.cpp.i
+
+413._等差数列划分.s: 413._等差数列划分.cpp.s
+.PHONY : 413._等差数列划分.s
+
+# target to generate assembly for a file
+413._等差数列划分.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.s
+.PHONY : 413._等差数列划分.cpp.s
+
+704._二分查找.o: 704._二分查找.cpp.o
+.PHONY : 704._二分查找.o
+
+# target to build an object file
+704._二分查找.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/704._二分查找.cpp.o
+.PHONY : 704._二分查找.cpp.o
+
+704._二分查找.i: 704._二分查找.cpp.i
+.PHONY : 704._二分查找.i
+
+# target to preprocess a source file
+704._二分查找.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/704._二分查找.cpp.i
+.PHONY : 704._二分查找.cpp.i
+
+704._二分查找.s: 704._二分查找.cpp.s
+.PHONY : 704._二分查找.s
+
+# target to generate assembly for a file
+704._二分查找.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/704._二分查找.cpp.s
+.PHONY : 704._二分查找.cpp.s
+
+714._买卖股票的最佳时机含手续费.o: 714._买卖股票的最佳时机含手续费.cpp.o
+.PHONY : 714._买卖股票的最佳时机含手续费.o
+
+# target to build an object file
+714._买卖股票的最佳时机含手续费.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o
+.PHONY : 714._买卖股票的最佳时机含手续费.cpp.o
+
+714._买卖股票的最佳时机含手续费.i: 714._买卖股票的最佳时机含手续费.cpp.i
+.PHONY : 714._买卖股票的最佳时机含手续费.i
+
+# target to preprocess a source file
+714._买卖股票的最佳时机含手续费.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.i
+.PHONY : 714._买卖股票的最佳时机含手续费.cpp.i
+
+714._买卖股票的最佳时机含手续费.s: 714._买卖股票的最佳时机含手续费.cpp.s
+.PHONY : 714._买卖股票的最佳时机含手续费.s
+
+# target to generate assembly for a file
+714._买卖股票的最佳时机含手续费.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.s
+.PHONY : 714._买卖股票的最佳时机含手续费.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -261,15 +501,45 @@ help:
 	@echo "... 1014最佳观光组合.o"
 	@echo "... 1014最佳观光组合.i"
 	@echo "... 1014最佳观光组合.s"
+	@echo "... 118._杨辉三角.o"
+	@echo "... 118._杨辉三角.i"
+	@echo "... 118._杨辉三角.s"
+	@echo "... 119._杨辉三角_II.o"
+	@echo "... 119._杨辉三角_II.i"
+	@echo "... 119._杨辉三角_II.s"
 	@echo "... 121._买卖股票的最佳时机.o"
 	@echo "... 121._买卖股票的最佳时机.i"
 	@echo "... 121._买卖股票的最佳时机.s"
 	@echo "... 122._买卖股票的最佳时机_II.o"
 	@echo "... 122._买卖股票的最佳时机_II.i"
 	@echo "... 122._买卖股票的最佳时机_II.s"
+	@echo "... 139._单词拆分.o"
+	@echo "... 139._单词拆分.i"
+	@echo "... 139._单词拆分.s"
+	@echo "... 22._括号生成.o"
+	@echo "... 22._括号生成.i"
+	@echo "... 22._括号生成.s"
+	@echo "... 264._丑数_II.o"
+	@echo "... 264._丑数_II.i"
+	@echo "... 264._丑数_II.s"
+	@echo "... 278._第一个错误的版本.o"
+	@echo "... 278._第一个错误的版本.i"
+	@echo "... 278._第一个错误的版本.s"
 	@echo "... 309._最佳买卖股票时机含冷冻期.o"
 	@echo "... 309._最佳买卖股票时机含冷冻期.i"
 	@echo "... 309._最佳买卖股票时机含冷冻期.s"
+	@echo "... 35._搜索插入位置.o"
+	@echo "... 35._搜索插入位置.i"
+	@echo "... 35._搜索插入位置.s"
+	@echo "... 413._等差数列划分.o"
+	@echo "... 413._等差数列划分.i"
+	@echo "... 413._等差数列划分.s"
+	@echo "... 704._二分查找.o"
+	@echo "... 704._二分查找.i"
+	@echo "... 704._二分查找.s"
+	@echo "... 714._买卖股票的最佳时机含手续费.o"
+	@echo "... 714._买卖股票的最佳时机含手续费.i"
+	@echo "... 714._买卖股票的最佳时机含手续费.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

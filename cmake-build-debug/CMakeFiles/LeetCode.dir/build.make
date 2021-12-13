@@ -131,13 +131,153 @@ CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.s: cmake_f
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/309. 最佳买卖股票时机含冷冻期.cpp" -o CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.s
 
+CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o: ../714.\ 买卖股票的最佳时机含手续费.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o -c "/home/lifan/Code/LeetCode/714. 买卖股票的最佳时机含手续费.cpp"
+
+CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/714. 买卖股票的最佳时机含手续费.cpp" > CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.i
+
+CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/714. 买卖股票的最佳时机含手续费.cpp" -o CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.s
+
+CMakeFiles/LeetCode.dir/22._括号生成.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/22._括号生成.cpp.o: ../22.\ 括号生成.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode.dir/22._括号生成.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/22._括号生成.cpp.o -c "/home/lifan/Code/LeetCode/22. 括号生成.cpp"
+
+CMakeFiles/LeetCode.dir/22._括号生成.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/22._括号生成.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/22. 括号生成.cpp" > CMakeFiles/LeetCode.dir/22._括号生成.cpp.i
+
+CMakeFiles/LeetCode.dir/22._括号生成.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/22._括号生成.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/22. 括号生成.cpp" -o CMakeFiles/LeetCode.dir/22._括号生成.cpp.s
+
+CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o: ../139.\ 单词拆分.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o -c "/home/lifan/Code/LeetCode/139. 单词拆分.cpp"
+
+CMakeFiles/LeetCode.dir/139._单词拆分.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/139._单词拆分.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/139. 单词拆分.cpp" > CMakeFiles/LeetCode.dir/139._单词拆分.cpp.i
+
+CMakeFiles/LeetCode.dir/139._单词拆分.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/139._单词拆分.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/139. 单词拆分.cpp" -o CMakeFiles/LeetCode.dir/139._单词拆分.cpp.s
+
+CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o: ../413.\ 等差数列划分.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o -c "/home/lifan/Code/LeetCode/413. 等差数列划分.cpp"
+
+CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/413. 等差数列划分.cpp" > CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.i
+
+CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/413. 等差数列划分.cpp" -o CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.s
+
+CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o: ../264.\ 丑数\ II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o -c "/home/lifan/Code/LeetCode/264. 丑数 II.cpp"
+
+CMakeFiles/LeetCode.dir/264._丑数_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/264._丑数_II.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/264. 丑数 II.cpp" > CMakeFiles/LeetCode.dir/264._丑数_II.cpp.i
+
+CMakeFiles/LeetCode.dir/264._丑数_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/264._丑数_II.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/264. 丑数 II.cpp" -o CMakeFiles/LeetCode.dir/264._丑数_II.cpp.s
+
+CMakeFiles/LeetCode.dir/704._二分查找.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/704._二分查找.cpp.o: ../704.\ 二分查找.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LeetCode.dir/704._二分查找.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/704._二分查找.cpp.o -c "/home/lifan/Code/LeetCode/704. 二分查找.cpp"
+
+CMakeFiles/LeetCode.dir/704._二分查找.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/704._二分查找.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/704. 二分查找.cpp" > CMakeFiles/LeetCode.dir/704._二分查找.cpp.i
+
+CMakeFiles/LeetCode.dir/704._二分查找.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/704._二分查找.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/704. 二分查找.cpp" -o CMakeFiles/LeetCode.dir/704._二分查找.cpp.s
+
+CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o: ../118.\ 杨辉三角.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o -c "/home/lifan/Code/LeetCode/118. 杨辉三角.cpp"
+
+CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/118. 杨辉三角.cpp" > CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.i
+
+CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/118. 杨辉三角.cpp" -o CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.s
+
+CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o: ../119.\ 杨辉三角\ II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o -c "/home/lifan/Code/LeetCode/119. 杨辉三角 II.cpp"
+
+CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/119. 杨辉三角 II.cpp" > CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.i
+
+CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/119. 杨辉三角 II.cpp" -o CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.s
+
+CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o: ../278.\ 第一个错误的版本.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o -c "/home/lifan/Code/LeetCode/278. 第一个错误的版本.cpp"
+
+CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/278. 第一个错误的版本.cpp" > CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.i
+
+CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/278. 第一个错误的版本.cpp" -o CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.s
+
+CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o: ../35.\ 搜索插入位置.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o -c "/home/lifan/Code/LeetCode/35. 搜索插入位置.cpp"
+
+CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/lifan/Code/LeetCode/35. 搜索插入位置.cpp" > CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.i
+
+CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/lifan/Code/LeetCode/35. 搜索插入位置.cpp" -o CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.o" \
 "CMakeFiles/LeetCode.dir/1014最佳观光组合.cpp.o" \
 "CMakeFiles/LeetCode.dir/121._买卖股票的最佳时机.cpp.o" \
 "CMakeFiles/LeetCode.dir/122._买卖股票的最佳时机_II.cpp.o" \
-"CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.o"
+"CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.o" \
+"CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o" \
+"CMakeFiles/LeetCode.dir/22._括号生成.cpp.o" \
+"CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o" \
+"CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o" \
+"CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o" \
+"CMakeFiles/LeetCode.dir/704._二分查找.cpp.o" \
+"CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o" \
+"CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o" \
+"CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o" \
+"CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -147,9 +287,19 @@ LeetCode: CMakeFiles/LeetCode.dir/1014最佳观光组合.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/121._买卖股票的最佳时机.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/122._买卖股票的最佳时机_II.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/309._最佳买卖股票时机含冷冻期.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/714._买卖股票的最佳时机含手续费.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/22._括号生成.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/139._单词拆分.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/413._等差数列划分.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/264._丑数_II.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/704._二分查找.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/118._杨辉三角.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/119._杨辉三角_II.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/278._第一个错误的版本.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/35._搜索插入位置.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lifan/Code/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
