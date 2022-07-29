@@ -26,3 +26,8 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 ## 398.随机数索引
 这个题是水塘抽样和哈希表的一个经典的题。不过看起来python版本的水塘抽样超时。。。
 382题也是一个很典型很简单的水塘抽样的题
+
+
+## 一些简单但有趣的题
+### 290.单词规律
+这个题和同构字符串很相同，可以通过set的方式很快的得到结果
