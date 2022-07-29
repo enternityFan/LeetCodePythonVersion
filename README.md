@@ -1,7 +1,7 @@
 # LeetCode
 this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
-# 2022-07-27
+# 2022-07-27开始重拾刷题
 
 应该是只记录python版本的代码吧。。。之前写的很多C++版本的代码没有记录，以后如果闲了的话再说吧:)
 
@@ -31,3 +31,8 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 ## 一些简单但有趣的题
 ### 290.单词规律
 这个题和同构字符串很相同，可以通过set的方式很快的得到结果
+
+
+
+# 其他闲谈
+今天是2022.07.29-20：17，到现在写了29个题，虽然很多简单难度的，但是今天好喜欢刷题:)
