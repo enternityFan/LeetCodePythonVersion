@@ -35,4 +35,4 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 
 # 其他闲谈
-今天是2022.07.29-20：17，到现在写了29个题，虽然很多简单难度的，但是今天好喜欢刷题:)
+今天是2022.07.29-20：17，到现在写了40个题，虽然很多简单难度的，但是今天好喜欢刷题:)
