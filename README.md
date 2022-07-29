@@ -14,3 +14,15 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 ## 2.查找某个索引i,在i之后的元素满足条件
 比如1351题，统计有序矩阵中的负数
+
+
+
+
+# Others
+## 384.打乱数组
+这个题是Fisher-Yates 洗牌算法，然后一点就是要注意拷贝。
+
+
+## 398.随机数索引
+这个题是水塘抽样和哈希表的一个经典的题。不过看起来python版本的水塘抽样超时。。。
+382题也是一个很典型很简单的水塘抽样的题
