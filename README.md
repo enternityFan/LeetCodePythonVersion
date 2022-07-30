@@ -16,6 +16,8 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 比如1351题，统计有序矩阵中的负数
 
 
+# 前缀和
+剑指 Offer 66. 构建乘积数组  这个题是一个很基础的题，理解这个，就对前缀和有很多的理解了。
 
 
 # Others
