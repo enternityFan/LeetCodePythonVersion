@@ -4,7 +4,7 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 # 2022-07-27开始重拾刷力扣题
 
 应该是只记录python版本的代码吧。。。之前写的很多C++版本的代码没有记录，以后如果闲了的话再说吧:)
-
+对于属于不同类别的题型，我将根据我做这个题的时候想要训练的那个方面去分它应该去的文件夹
 
 
 
@@ -30,8 +30,8 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 ## 一些简单但有趣的题
 ### 290.单词规律
-这个题和同构字符串很相同，可以通过set的方式很快的得到结果
-
+这个题和205同构字符串很相同，可以通过set的方式很快的得到结果
+还有一个348题，都是类似的。
 
 
 # 其他闲谈

@@ -3,7 +3,7 @@
 # @File : 面试题 01.01. 判定字符是否唯一.py
 # @Software: PyCharm
 # C'est la vie,enjoy it! :D
-
+from builtins import str
 from typing import *
 class Solution:
     def isUnique(self, astr: str) -> bool:
