@@ -24,6 +24,10 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 桶排序可以好好研究一下164题，计数排序1051题,1122题
 
 
+# 链表
+《剑指 Offer 22. 链表中倒数第k个节点》  这一题可以通过快慢指针做，很有趣
+
+
 # Others
 ## 384.打乱数组
 这个题是Fisher-Yates 洗牌算法，然后一点就是要注意拷贝。
