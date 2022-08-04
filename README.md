@@ -20,6 +20,10 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 剑指 Offer 66. 构建乘积数组  这个题是一个很基础的题，理解这个，就对前缀和有很多的理解了。
 
 
+# 非基于比较的排序
+桶排序可以好好研究一下164题，计数排序1051题,1122题
+
+
 # Others
 ## 384.打乱数组
 这个题是Fisher-Yates 洗牌算法，然后一点就是要注意拷贝。
