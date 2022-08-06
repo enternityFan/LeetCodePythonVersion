@@ -10,6 +10,7 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 # 二分法
 ## 1.查找数字
+
 这个不说了。
 
 ## 2.查找某个索引i,在i之后的元素满足条件
@@ -26,6 +27,15 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 # 链表
 《剑指 Offer 22. 链表中倒数第k个节点》  这一题可以通过快慢指针做，很有趣
+
+# 树
+## 二叉搜索树
+
+[938. 二叉搜索树的范围和](https://leetcode.cn/problems/range-sum-of-bst/)这个简单的题很适合理解
+
+## 二叉树
+
+[513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)这个题可以通过入栈顺序优化，我没有优化
 
 
 # Others
