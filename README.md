@@ -58,5 +58,8 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 这个题我看答案的题解，，让我重新认识了lambda函数和排序函数。。哎，太菜了
 
 
+# python技巧
+1. 用[:]表示重新分配了内存给新的列表变量
+
 # 其他闲谈
 今天是2022.07.29-20：17，到现在写了40个题，虽然很多简单难度的，但是今天好喜欢刷题:)
