@@ -37,6 +37,11 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 [513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)这个题可以通过入栈顺序优化，我没有优化
 
+# 并查集
+比较经典的几个题：
+* 200.岛屿数量
+* 547.省份数量
+* 695.岛屿的最大面积
 
 # Others
 ## 384.打乱数组
