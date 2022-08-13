@@ -1,0 +1,1 @@
+myTree = TreeNode(4,left=TreeNode(9,left=TreeNode(5),right=TreeNode(1)),right=TreeNode(0))
