@@ -11,7 +11,7 @@ class Solution:
         ans = 0
         for i in range(1,num+1):
 
-            if sum([int(each) for each in str(i).split()]) % 2 == 0 :
+            if sum([int(each) for each in str(i)]) % 2 == 0 :
                 print(i)
                 ans +=1
         return ans
