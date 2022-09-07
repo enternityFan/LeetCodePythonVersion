@@ -8,6 +8,14 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 
 
+
+
+# 栈
+
+#### [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)这个题很有意思。我没有想到栈能写。。
+
+
+
 # 二分法
 ## 1.查找数字
 
