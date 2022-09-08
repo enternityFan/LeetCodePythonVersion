@@ -62,6 +62,8 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 这个题是水塘抽样和哈希表的一个经典的题。不过看起来python版本的水塘抽样超时。。。
 382题也是一个很典型很简单的水塘抽样的题
 
+## 667. 优美的排列 II
+脑筋急转弯的问题。
 
 ## 一些简单但有趣的题
 ### 290.单词规律
