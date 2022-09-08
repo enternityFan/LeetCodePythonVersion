@@ -21,9 +21,13 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 这个不说了。
 
+
+
 ## 2.查找某个索引i,在i之后的元素满足条件
 比如1351题，统计有序矩阵中的负数
 
+## 3.找两个数的和为一个目标值
+剑指 Offer II 006. 排序数组中两个数字之和  这个题，具体做法是先固定一个，然后算另外一个（for循环可以)
 
 # 前缀和
 剑指 Offer 66. 构建乘积数组  这个题是一个很基础的题，理解这个，就对前缀和有很多的理解了。

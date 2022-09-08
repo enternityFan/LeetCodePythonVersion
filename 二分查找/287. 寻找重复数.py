@@ -28,9 +28,9 @@ class Solution:
                     cnt +=1
             if cnt <= mid:
                 l = mid+1
+                ans = mid
             else:
                 r = mid - 1
-                ans = mid
 
         return ans
 
