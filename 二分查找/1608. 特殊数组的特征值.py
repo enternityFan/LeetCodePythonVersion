@@ -39,3 +39,4 @@ class Solution:
 
 
 
+print(Solution().specialArray([3,5]))
