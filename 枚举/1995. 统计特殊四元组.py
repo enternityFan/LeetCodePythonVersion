@@ -9,31 +9,15 @@ from typing import List
 class Solution:
     def countQuadruplets(self, nums: List[int]) -> int:
         n = len(nums)
-        nums.sort()
-        ans = []
-        flag = 1 # 完全停止循环的标志
-        for i in range(n):
-            if flag == 0:
-                break
-            for j in range(i+1,n):
-                tmp1 = nums[i] + nums[j]
-                if tmp1 > nums[-1]:
-                    flag = 1
-                    break
-                for k in range(j+1,n):
-                    tmp2 = tmp1 + nums[k]
-                    if tmp2 > nums[-1]:
-                        flag = 1
-                        break
+        ans = 0
+        for a in range(n):
+            for b in range(a+1,n):
+                for c in range(b+1,n):
+                    for d in range(c+1,n):
+                        if nums[a] + nums[b] + nums[c] == nums[d]:
+                            ans +=1
 
-                    for t in range(k+1,n):
-                        if tmp2 == nums[t]:
-                            print(i,j,k,t)
-                            #print(nums[i],nums[j],nums[k],nums[t])
-                            tmpsave = [i,j,k,t]
-                            if tmpsave not in ans:
-                                ans.append(tmpsave)
-        return len(ans)
+        return ans
 
 
 print(Solution().countQuadruplets([1,1,1,3,5]))
