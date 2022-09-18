@@ -7,6 +7,9 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 对于属于不同类别的题型，我将根据我做这个题的时候想要训练的那个方面去分它应该去的文件夹
 
 
+# 贪心
+
+#### [1605. 给定行和列的和求可行矩阵](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums/)这个题很有意思
 
 
 
