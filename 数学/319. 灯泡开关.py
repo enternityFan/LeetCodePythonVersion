@@ -8,6 +8,9 @@ import math
 
 class Solution:
     def bulbSwitch(self, n: int) -> int:
+
+
+        return int(math.sqrt(n + 1))
         """
 
         8
@@ -33,6 +36,10 @@ class Solution:
         1 0 1 0
         1 0 0 0
         1 0 0 1
+        1 1*1
+        2 1*2
+        3 1*3
+        4 1*4  2*2
         一共切换了(n - n/2 + n/3 + n/4 + n/5 + n/6... + 1)次状态；
         一共切换了(n/n + 2/3n +
 
@@ -42,11 +49,8 @@ class Solution:
             return 0
         ans = 0
         i = 1
-        while i <=n:
-            if i * i <=n:
-                ans +=1
-            else:
-                break
+        while i*i <=n:
+            ans +=1
             i+=1
 
 
