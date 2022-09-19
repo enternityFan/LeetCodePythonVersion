@@ -85,6 +85,9 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 ### 1925.统计平方和三元组的数目
 这个题你做做试试！我现在是抄答案的。
 
+### 1.两数之和
+注意这个题用hashmap加速版很有趣的。
+
 # python技巧
 1. 用[:]表示重新分配了内存给新的列表变量
 ## python双数组排序
