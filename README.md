@@ -87,6 +87,13 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 # python技巧
 1. 用[:]表示重新分配了内存给新的列表变量
+## python双数组排序
+下面代码是按照频率排序，如果频率一样，就按照数值的大小进行降序
+
+```python
+        mycounter = collections.Counter(nums)
+        keys,values = zip(*sorted(zip(list(mycounter.keys()),list(mycounter.values())), key=lambda x:(x[1],-x[0])))
+```
 
 # 其他闲谈
 今天是2022.07.29-20：17，到现在写了40个题，虽然很多简单难度的，但是今天好喜欢刷题:)
