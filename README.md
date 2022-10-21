@@ -54,6 +54,10 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 [652. 寻找重复的子树](https://leetcode.cn/problems/find-duplicate-subtrees/)这个题直接查看了答案，然后我看的那个答案说的很有道理，他说后序遍历比前序遍历更快。
 
+## LCA问题（最近公共祖先)
+
+
+
 # 并查集
 比较经典的几个题：
 * 200.岛屿数量
