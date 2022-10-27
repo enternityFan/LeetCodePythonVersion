@@ -29,10 +29,10 @@ def get1024(nums, ops):
             getNum(n, o)
 
 
-numbers = [2, 2, 2,2,2,2, 996,14,23,0,18,1,34,6, 9, 33]
-operators = ['%', '>>', '-','&', '//']
+numbers = [ 2,2,2,2,4,8,2,2, 996,14,18,10,23,18,1,34,6, 33]
+operators = ['%',  '-','^', '//']
 
-
+#(((2&2)>>0)<<9)
 ok = []
 
 for n1 in range(len(numbers)):
@@ -46,7 +46,7 @@ for n1 in range(len(numbers)):
                                 continue
                             string = f"((({numbers[n1]}{operators[o1]}{numbers[n2]}){operators[o2]}{numbers[n3]}){operators[o3]}{numbers[n4]})"
                             try:
-                                if eval(string) == 5:
+                                if eval(string) == 1024:
                                     ok.append(string)
                                     print(string)
                             except:
