@@ -13,9 +13,13 @@ class Solution:
     def maxRepeating(self, sequence: str, word: str) -> int:
         k = 0
         idx = sequence.find(word)
+        original = word
         while idx !=-1:
             k+=1
-            word = word + word
+            word = word + original
             idx = sequence.find(word)
 
         return k
+
+
+print(Solution().maxRepeating("aaabaaaabaaabaaaabaaaabaaaabaaaaba","aaaba"))
