@@ -18,13 +18,19 @@ class Solution:
 
         cnts = collections.Counter(answers)
         for key,val in cnts.items():
+            if key == 0:
+                ans +=val
+                continue
+            if val <=key+1: # key=1,val=2,val=1
+                ans +=key + 1
+            else:# key=1,val = 3 很明显需要4个兔子起码
+                if val %(key+1) == 0:
+                    ans += (key + 1) * (val // (key+1))
 
-            if val <=key:
-                ans +=val + 1
-            else:
-                ans += (val // key) * key + (key - (val % key) + 1)
+                else:
 
+                    ans += (key + 1) * (val // (key + 1)) + (key + 1)
         return ans
 
 
-print(Solution().numRabbits([1,1,2]))
+print(Solution().numRabbits([0,1,0,2,0,1,0,2,1,1]))
