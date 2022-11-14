@@ -108,5 +108,26 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
         keys,values = zip(*sorted(zip(list(mycounter.keys()),list(mycounter.values())), key=lambda x:(x[1],-x[0])))
 ```
 
+# 容易犯的错误
+1. 边界条件，这个老生常谈了，应该要多上心
+2. 在进行一些，制作字符串字典类似的题的时候，注意当循环结束的时候，要判断word是否为空，比如下面的代码,for循环结束后的if判断还是很重要的：
+```python
+
+words = "hello word"
+word = ""
+mydict = {}
+for c in words:
+    if word == " ":
+        mydict[word] = 1
+        word = ""
+    else:
+        word +=c
+if word !="":
+    mydict[word] = 1
+
+
+```
+
+
 # 其他闲谈
 今天是2022.07.29-20：17，到现在写了40个题，虽然很多简单难度的，但是今天好喜欢刷题:)
