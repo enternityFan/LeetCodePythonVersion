@@ -25,6 +25,7 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 2. 根据数据量反推方法，如果N=10 ** 6，那么肯定不能是N ** 2 的方法
 3. 好的笔试是不会考常数时间的。
 4. 面试的时候可以套路面试官，数据范围是什么样的？等等
+4. 优化问题能从两个地方着手，一个是从数据，另外一个从题目的理解上。
 
 # 贪心
 
