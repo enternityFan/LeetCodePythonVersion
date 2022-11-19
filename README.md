@@ -8,7 +8,24 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
 
 # 名词解释
 ## 1.字典序
+
 字典序是指从前到后比较两个字符串的大小。首先比较第一个字符，如果不同则第1个字符较小的字符串更小，如果相同则比较第2个字符……如此继续，来比较整个字符串的大小
+
+
+
+## 2.子串，子数组
+
+子X是连续的，**一旦说子串或者子数组，就看开头的情况下是啥或者结尾的情况下是啥，只要知道，问题就结了。**比如说，子串必须以i位置的字符结尾，它最长的有效括号子串多长，那么以0,1,2,...n-1结尾都有一个答案，那么最终答案就是上面的n个答案种最大的。
+
+
+
+# Tricks
+
+1. 使用预处理数组来优化。
+2. 根据数据量反推方法，如果N=10 ** 6，那么肯定不能是N ** 2 的方法
+3. 好的笔试是不会考常数时间的。
+4. 面试的时候可以套路面试官，数据范围是什么样的？等等
+4. 优化问题能从两个地方着手，一个是从数据，另外一个从题目的理解上。
 
 # 贪心
 
@@ -107,6 +124,27 @@ this rep is used to record my daily LeetCode pratice,i hope i will stand on ...
         mycounter = collections.Counter(nums)
         keys,values = zip(*sorted(zip(list(mycounter.keys()),list(mycounter.values())), key=lambda x:(x[1],-x[0])))
 ```
+
+# 容易犯的错误
+1. 边界条件，这个老生常谈了，应该要多上心
+2. 在进行一些，制作字符串字典类似的题的时候，注意当循环结束的时候，要判断word是否为空，比如下面的代码,for循环结束后的if判断还是很重要的：
+```python
+
+words = "hello word"
+word = ""
+mydict = {}
+for c in words:
+    if word == " ":
+        mydict[word] = 1
+        word = ""
+    else:
+        word +=c
+if word !="":
+    mydict[word] = 1
+
+
+```
+
 
 # 其他闲谈
 今天是2022.07.29-20：17，到现在写了40个题，虽然很多简单难度的，但是今天好喜欢刷题:)
