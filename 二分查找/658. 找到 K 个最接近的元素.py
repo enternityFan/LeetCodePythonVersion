@@ -19,7 +19,6 @@ class Solution:
             return arr[:k]
         if x >=arr[-1]:
             return arr[-k:]
-
         # 开始二分查找
         # 首先都减去x并求绝对值
         #myarr = []
@@ -31,7 +30,6 @@ class Solution:
         #print(list(arr))
         #print(myarr)
         arr.sort(key=lambda c:abs(c-x))
-
         return sorted(arr[:k])
 
 print(Solution().findClosestElements([1,2,3,4,5],4,3))
