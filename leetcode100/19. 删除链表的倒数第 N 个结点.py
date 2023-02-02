@@ -17,3 +17,27 @@ class ListNode:
         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        cur = head
+        pre = None
+        enough = False
+        while cur !=None:
+            n-=1
+            if n <=0:
+                if n == 0:
+                    enough = True # 说明够，链表的长度有那么多
+                elif n == -1:
+                    pre = head# 指向头结点，也就是当cur来到了节点最后的位置的时候，pre到了倒数n+1的位置
+                else:
+                    pre = pre.next
+            cur = cur.next
+
+        if not enough:
+            #没有那么多个，那就不删嘛，返回头结点
+            return head
+        if pre == None:
+            # 说明长度够，正好是头结点
+            return head.next
+
+        pre.next = pre.next.next #删除第n个节点
+        return head
+
