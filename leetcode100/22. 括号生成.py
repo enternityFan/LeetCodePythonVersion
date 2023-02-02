@@ -7,3 +7,8 @@
 @Date ：2023-02-02 9:08 
 C'est la vie!!! enjoy ur day :D
 '''
+from typing import List
+
+
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
