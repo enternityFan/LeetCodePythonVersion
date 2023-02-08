@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*-
 '''
 @Project ：LeetCodePthonVersion 
-@File ：212. 单词搜索 II.py
+@File ：239. 滑动窗口最大值.py
 @Author ：HuntingGame
-@Date ：2023-02-08 10:11 
+@Date ：2023-02-08 13:15 
 C'est la vie!!! enjoy ur day :D
 '''
 from typing import List
 
 
 class Solution:
-    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
-        #TODO 典型的递归题，非常考核剪枝。
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        #TODO
         pass
