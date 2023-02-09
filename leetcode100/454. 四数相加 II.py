@@ -20,7 +20,6 @@ class Solution:
                     mymap[tmp] = 1
                 else:
                     mymap[tmp]+=1
-
         ans = 0
         for i in range(len(nums3)):
             for j in range(len(nums4)):
