@@ -32,6 +32,7 @@ class Solution:
         # 1-> 2 -> 3 ->None
         # 1-> 1' -> 2 -> 2'
         while cur !=None:
+            next = cur.next
             cur.next = Node(cur.val)
             cur.next.next = next
             cur = next
