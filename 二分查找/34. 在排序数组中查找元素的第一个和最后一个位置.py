@@ -1,6 +1,6 @@
 # @Time : 2022-09-24 15:02
 # @Author : Phalange
-# @File : 34. 在排序数组中查找元素的第一个和最后一个位置.py
+# @File : 34. 34.在排序数组中查找元素的第一个和最后一个位置.py
 # @Software: PyCharm
 # C'est la vie,enjoy it! :D
 from typing import List
