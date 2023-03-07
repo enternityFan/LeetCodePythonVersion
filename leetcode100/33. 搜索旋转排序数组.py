@@ -35,8 +35,6 @@ class Solution:
                     L = M + 1
                     continue
 
-
-
             #[L] [M] [R]不都一样
             if nums[L] !=nums[M]:
                 if nums[M] > nums[L]:
