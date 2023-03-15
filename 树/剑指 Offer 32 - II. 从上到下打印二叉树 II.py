@@ -31,7 +31,7 @@ class Solution:
         nextEnd = None
         while myque:
             cur = myque.popleft()
-            ans.append(cur.val)
+            tmp.append(cur.val)
             if cur.left:
                 myque.append(cur.left)
                 nextEnd = cur.left
@@ -40,7 +40,7 @@ class Solution:
                 nextEnd = cur.right
 
             if cur == curEnd:
-                #ans.append(tmp.copy())
+                ans.append(tmp.copy())
                 curEnd = nextEnd
                 tmp = []
 
