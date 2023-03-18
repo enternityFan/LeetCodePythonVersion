@@ -49,7 +49,7 @@ class Solution:
         return str1[end-ans+1:end+1]
 
 
-
+print(Solution().LCS("HELLOHELEN2023","HELENHELLO2048"))
 
 
 

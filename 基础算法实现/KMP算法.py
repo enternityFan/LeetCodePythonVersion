@@ -70,8 +70,8 @@ def get_next(match):
 
 
 if __name__ == "__main__":
-    text = "hello world!ababacd"
+    text = "ababaaab"
     match = "ab"
-    print(myKMP(text,match))
+    print(myKMP(text,text))
 
 

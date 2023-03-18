@@ -10,7 +10,7 @@ C'est la vie!!! enjoy ur day :D
 import collections
 from idlelib.tree import TreeNode
 from typing import List
-
+from 基础算法实现.二叉树测试用例 import convertListToTree
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -52,3 +52,8 @@ class Solution:
 
         return ans
 
+nodes = [25,45,36,48,50,56]
+nodes.sort()
+a = convertListToTree(nodes)
+print(Solution().levelOrder(a))
+#pprint(a)
