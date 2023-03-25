@@ -4,7 +4,7 @@
 @Project ：LeetCodePthonVersion 
 @File ：小美刷怪.py
 @Author ：HuntingGame
-@Date ：2023-03-18 10:37 
+
 C'est la vie!!! enjoy ur day :D
 小美在玩一项游戏。该游戏的目标是尽可能抓获敌人。
 敌人的位置将被一个二维坐标(x,y)所描述。

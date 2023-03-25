@@ -4,7 +4,7 @@
 @Project ：LeetCodePthonVersion 
 @File ：小妹刷怪2.py
 @Author ：HuntingGame
-@Date ：2023-03-18 11:05 
+
 C'est la vie!!! enjoy ur day :D
 '''
 

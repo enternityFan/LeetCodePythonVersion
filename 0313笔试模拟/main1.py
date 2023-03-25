@@ -4,7 +4,7 @@
 @Project ：LeetCodePthonVersion 
 @File ：main1.py
 @Author ：HuntingGame
-@Date ：2023-03-13 20:10 
+
 C'est la vie!!! enjoy ur day :D
 '''
 import collections

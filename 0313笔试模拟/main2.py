@@ -4,7 +4,7 @@
 @Project ：LeetCodePthonVersion 
 @File ：main2.py
 @Author ：HuntingGame
-@Date ：2023-03-13 20:40 
+
 C'est la vie!!! enjoy ur day :D
 '''
 
